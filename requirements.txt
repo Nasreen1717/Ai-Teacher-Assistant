@@ -1,3 +1,4 @@
+openai>=1.2.0
 openai_agents
 python-dotenv
 chainlit
